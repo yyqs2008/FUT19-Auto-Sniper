@@ -15,7 +15,7 @@ The module works only on windows (since it uses PowerShell 5 and not PowerShell 
 ### Execution Policy
 
 `Set-ExecutionPolicy RemoteSigned`
-(Restricted will also work, but is less secure).
+(Unrestricted will also work, but is less secure).
 
 ## Usage
 
